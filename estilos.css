@@ -1,0 +1,19 @@
+ul{
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+}
+.txtp1{
+    font-size: 30px;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.txtfinp1{
+    font-size: 30px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
